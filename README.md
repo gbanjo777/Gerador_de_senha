@@ -10,3 +10,12 @@ Sistemas que exigem senhas fortes
 Aprendizado de boas práticas em Python
 **Portfólio técnico no GitHub**
 **Segurança não é sorte — é engenharia.**
+© 2025 Gabriel Roque
+Este projeto é de livre acesso e código aberto.
+
+É permitida a utilização, cópia, modificação, redistribuição e reutilização deste código,
+inclusive para fins comerciais, desde que os créditos ao autor original sejam mantidos.
+
+O software é fornecido "como está", sem garantias de qualquer tipo,
+expressas ou implícitas, incluindo, mas não se limitando a garantias de
+comercialização ou adequação a um propósito específico.
