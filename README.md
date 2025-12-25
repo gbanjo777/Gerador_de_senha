@@ -10,6 +10,7 @@ Sistemas que exigem senhas fortes
 Aprendizado de boas práticas em Python
 **Portfólio técnico no GitHub**
 **Segurança não é sorte — é engenharia.**
+
 © 2025 Gabriel Roque
 Este projeto é de livre acesso e código aberto.
 
