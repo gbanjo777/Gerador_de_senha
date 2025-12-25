@@ -1,0 +1,6 @@
+## 🔐 Security Focus
+
+- Usa CSPRNG (`secrets`)
+- Evita padrões previsíveis
+- Embaralhamento com SystemRandom
+- Ideal para ambientes sensíveis
